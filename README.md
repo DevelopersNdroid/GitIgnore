@@ -1,7 +1,6 @@
 # GitIgnore
-
 *.iml
-*.iml.*
+.iml.
 .gradle
 *build
 *.idea
